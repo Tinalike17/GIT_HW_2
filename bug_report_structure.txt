@@ -1,23 +1,28 @@
+Main ones
 1.ID
 2.Severity
 3.Priority
-4.Created at
-5.Affects sprint
-6.Fix sprint
-7.Reporter 
-8.Status
+4.Summary
+5.Environment
+6.Reproducibility
+7.Created at
+8.Reporter 
+9.Status
+10.Description
+10.1 Precondition
+10.2 Steps to reproduce
+10.3 Actual Result
+10.4 Expected Result
+11.Attachments
 
-9.  Summary
-10. Environment
-11. Reproducibility
+Possible ones
 12. Requirements
+13. Postcondition
+14. Affects sprint
+15. Fix sprint
+16.Comments/Conclusions
 
 
-13.Description
-13.1 Precondition
-13.2 Steps to reproduce
-13.3 Actual Result
-13.4 Expected Result
 
-14.Attachments
-15.Comments/Conclusions
+
+
